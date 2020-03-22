@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc7cd3f0-d9fd-47fa-b79e-81dc90842c25" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Zadanie domowe-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Zadanie domowe-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zadanie domowe.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Zadanie domowe.ipynb" afterDir="false" />
     </list>
@@ -36,11 +37,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584711592782</updated>
-      <workItem from="1584711598139" duration="3233000" />
+      <workItem from="1584711598139" duration="3378000" />
+      <workItem from="1584795215971" duration="1700000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="260" key="GridCell.Tab.0.bottom" timestamp="1584795243241">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state width="1638" height="260" key="GridCell.Tab.0.bottom/0.23.1680.969@0.23.1680.969" timestamp="1584795243241" />
+    <state width="1638" height="260" key="GridCell.Tab.0.center" timestamp="1584795243240">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state width="1638" height="260" key="GridCell.Tab.0.center/0.23.1680.969@0.23.1680.969" timestamp="1584795243240" />
+    <state width="1638" height="260" key="GridCell.Tab.0.left" timestamp="1584795243240">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state width="1638" height="260" key="GridCell.Tab.0.left/0.23.1680.969@0.23.1680.969" timestamp="1584795243240" />
+    <state width="1638" height="260" key="GridCell.Tab.0.right" timestamp="1584795243241">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state width="1638" height="260" key="GridCell.Tab.0.right/0.23.1680.969@0.23.1680.969" timestamp="1584795243241" />
+    <state x="533" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1584795216036">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state x="533" y="339" key="com.intellij.ide.util.TipDialog/0.23.1680.969@0.23.1680.969" timestamp="1584795216036" />
   </component>
 </project>
